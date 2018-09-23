@@ -15,9 +15,9 @@
   > *International Geoscience and Remote Sensing Symposium*
 
 ## 2 Reference List
-### [Reviews & Introduction](Lists\Reviews_Introduction.md)
-### [Classification](Lists\Classification.md)
-### [Feature Learning](Lists\Feature_Learning.md)
-### [Hyperspectral Unmixing](Lists\Hyperspectral_Unmixing.md)
-### [Abnormal Detection](Lists\Abnormal_Detection.md)
-### [Target Detection](Lists\Target_Detection.md)
+### [Reviews & Introduction](.\Lists\Reviews_Introduction.md)
+### [Classification](.\Lists\Classification.md)
+### [Feature Learning](.\Lists\Feature_Learning.md)
+### [Hyperspectral Unmixing](.\Lists\Hyperspectral_Unmixing.md)
+### [Abnormal Detection](.\Lists\Abnormal_Detection.md)
+### [Target Detection](.\Lists\Target_Detection.md)

@@ -15,7 +15,6 @@
   > *International Geoscience and Remote Sensing Symposium*
 
 ## 2 Reference List
-<<<<<<< HEAD
 ### [Reviews & Introduction](./Lists/Reviews_Introduction.md)
 ### [Classification](./Lists/Classification.md)
 ### [Feature Learning](./Lists/Feature_Learning.md)

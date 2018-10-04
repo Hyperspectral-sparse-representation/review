@@ -18,7 +18,7 @@
 |Index|Branch|Principal|Progress rate|
 |:---:|:----:|:---:|:--:|
 |0|[Reviews & Introduction](./Lists/Reviews_Introduction.md)|All|%|
-|1|[Denoising and Rebuild](./Lists/Denoising and Rebuild.md) | [CJ](https://github.com/yinianqingzhi)| % |
+|1|[Denoising and Rebuild](./Lists/Denoising_and_Rebuild.md) | [CJ](https://github.com/yinianqingzhi)| % |
 |2|[Feature Learning](./Lists/Feature_Learning.md) |[SHP](https://github.com/ShoupingShan) |0% |
 |3|[Classification](./Lists/Classification.md)|[SHP](https://github.com/ShoupingShan)|20%|
 |4|[Hyperspectral Unmixing](./Lists/Hyperspectral_Unmixing.md)|[CJ](https://github.com/yinianqingzhi)|%|
